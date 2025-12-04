@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+RISC-V Dayの自作VLSI体験
 
 ## How to test
 
